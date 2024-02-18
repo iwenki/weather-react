@@ -8,6 +8,7 @@ export default function Footer() {
           <a
             href="https://github.com/iwenki/SheCodes-project/tree/main"
             target="_blank"
+            rel="noreferrer"
             class="git"
           >
             Open-source code
@@ -16,6 +17,7 @@ export default function Footer() {
           <a
             href="https://www.linkedin.com/in/vanessa-iwen-040831173/?originalSubdomain=es"
             target="_blank"
+            rel="noreferrer"
             class="resume"
           >
             K.Vanessa Iwen
@@ -26,6 +28,7 @@ export default function Footer() {
             <a
               href="https://www.pexels.com/@francesco-ungaro/"
               target="_blank"
+              rel="noreferrer"
               class="photographer"
             >
               Francesco Ungaro
